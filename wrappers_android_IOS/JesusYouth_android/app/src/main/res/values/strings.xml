@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jesus Youth</string>
+    <string name="permission_external_rationale">Need Permission For External Storage</string>
+    <string name="ok">OK</string>
+</resources>
